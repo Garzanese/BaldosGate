@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "graphic.h": "c",
+        "keyboard.h": "c",
+        "conio.h": "c",
+        "gameplay.h": "c",
+        "windows.h": "c",
+        "*.rh": "c",
+        "array": "c"
+    }
+}
